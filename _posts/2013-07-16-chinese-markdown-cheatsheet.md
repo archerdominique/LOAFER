@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Markdown语法简介
-date: 2013-07-16
+title: （后台教程）Markdown语法简介
+date: 2020-07-16
 Author: Shengbin 
-tags: [sample, markdown]
+tags: [background]
 comments: true
 toc: true
 ---
