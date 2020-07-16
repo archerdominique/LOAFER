@@ -1,12 +1,12 @@
 ---
 layout: post
-title: LOFFER使用基础教程
-date: 2019-06-02
-author: 来自中世界
+title: 复制过来的使用教程存档
+date: 2020-07-16
+author: 原作-来自中世界
 tags: [sample, document]
 comments: true
 toc: true
-pinned: true
+pinned: false
 ---
 LOFFER是个可以帮助你get off from LOFTER的软件（我知道这个pun很烂）。
 
