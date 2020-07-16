@@ -3,7 +3,7 @@ layout: post
 title: 复制过来的使用教程存档
 date: 2020-07-16
 author: 原作-来自中世界
-tags: [sample, document]
+tags: [background]
 comments: true
 toc: true
 pinned: false
