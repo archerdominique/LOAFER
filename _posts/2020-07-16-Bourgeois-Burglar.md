@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LOFFER文档
+title: 第三章：小布尔乔亚窃贼
 date: 2020-07-16
 Author: ArcherD
 categories: 
@@ -8,7 +8,6 @@ tags: [The Road to Middle-Earth]
 comments: true
 --- 
 
-# 第三章：小布尔乔亚窃贼
 
 ## 词与物：精灵与矮人
 
